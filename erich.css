@@ -36,4 +36,10 @@ body {
  margin-left: 24%;
 } 
 
-aboutmeparagraph
+#aboutmeparagraph{
+  position: absolute;
+    top: 70%;
+    margin-left: 35%;
+    margin-right: 35%;
+    color: red;
+}
