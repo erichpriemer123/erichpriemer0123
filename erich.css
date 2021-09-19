@@ -10,7 +10,10 @@ body {
 }
 
 #table{
-  margin-left: 24%;
-  
-  
+  margin-left: 24%; 
+}
+
+#welcome1{
+ margin-left: 24%;
+ color: white;
 }
