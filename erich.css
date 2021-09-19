@@ -8,3 +8,8 @@
 body {
  background-color:rgb(70,135,54); 
 }
+
+#table{
+  margin-left: auto;
+  margin-right: auto;
+}
