@@ -66,6 +66,8 @@ body {
 
 #javap{
  font-size: large; 
+ float: right;
+ margin-right: 35%;
 }
 
 #appsh1 {
@@ -76,4 +78,6 @@ body {
 
 #appp  {
  font-size: large; 
+ float: right;
+ margin-right: 35%;
 }
