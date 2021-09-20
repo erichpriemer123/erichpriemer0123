@@ -61,9 +61,11 @@ body {
 #javah1 {
  float:right ; 
  margin-right: 43.5%;
+ margin-left:43.5%;
 }
 
 #appsh1 {
   float: right;
   margin-right: 46.5%;
+  margin-left: 46.5%;
 }
