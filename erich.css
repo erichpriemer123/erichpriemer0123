@@ -64,8 +64,16 @@ body {
  margin-left:43.5%;
 }
 
+#javap{
+ font-size: large; 
+}
+
 #appsh1 {
   float: right;
   margin-right: 46.5%;
   margin-left: 46.5%;
+}
+
+#appp  {
+ font-size: large; 
 }
